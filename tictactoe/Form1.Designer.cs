@@ -191,7 +191,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Thistle;
+            this.BackColor = System.Drawing.Color.MediumVioletRed;
             this.ClientSize = new System.Drawing.Size(318, 320);
             this.Controls.Add(this.C3);
             this.Controls.Add(this.C2);
